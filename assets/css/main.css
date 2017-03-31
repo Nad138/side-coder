@@ -1,0 +1,15 @@
+h1,h2,h3{
+  color: blue;
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia;
+  font-style: oblique;
+}
+div{
+text-align: center;
+display: inline-block;
+}
+input{
+  text-align: justify;
+  display: block;
+}
